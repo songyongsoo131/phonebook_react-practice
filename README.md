@@ -1,3 +1,3 @@
-Make a phone book with react
+# Make a phone book with react
 
-VELOPORT.LOG
+Learning by VELOPORT.LOG
